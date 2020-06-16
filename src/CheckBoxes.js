@@ -16,7 +16,7 @@ const CheckBoxes = ({
           checked={difficultyChecked}
           label={"difficulty"}
         />
-        difficulty
+        Difficulty
       </div>
       <div className="checkBoxes">
         <input
@@ -26,7 +26,7 @@ const CheckBoxes = ({
           checked={funChecked}
           label={"fun"}
         />
-        fun
+        Fun
       </div>
     </div>
   );
